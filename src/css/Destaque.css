@@ -1,8 +1,0 @@
-@import url("Index.css");
-@import 'tailwindcss';
-
-.destaques{
-    width: 100%;
-    max-width: 78rem;  
-    margin: 0 auto 2rem auto;
-}
